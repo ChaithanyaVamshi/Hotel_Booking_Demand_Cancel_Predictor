@@ -1,6 +1,9 @@
 
 # Predicting Hotel Booking Demand Analysis and Booking Cancellations Using Machine Learning with Python
 
+![image](https://user-images.githubusercontent.com/31254745/150643459-43963186-0349-4f1c-abdf-fde59eb0b28d.png)
+
+
 In this project, I have built an end-end Industry oriented and real-world Data-driven Machine
 learning project in the Hotel Industry (Hospitality) using AGILE CRISP-DM Methodology right
 from understanding the Business problem to the Model deployment of Web Application on
@@ -15,6 +18,7 @@ Hotel Industry.
 
 
 ## Project Motivation
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/31254745/150643490-2f065715-85a4-4252-bc54-eb82bc6f65a4.png" width="300" height="230" />
 
 My motivation for this project is to solve various business problems faced by the Hotel
 Industry by making a Scalable and robust Data Science Proof of Concept (POC) product that
@@ -31,6 +35,7 @@ this project and apply that workflow in the hotel industry
 
 
 ## Machine Learning Project Life Cyle
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/31254745/150643661-87437220-ffe6-44cc-84f1-d6c905815147.png" width="300" height="230" />
 
   1. Business Understanding
   2. Data Collection and Understanding
